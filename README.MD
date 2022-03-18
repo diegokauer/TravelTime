@@ -3,6 +3,8 @@
 - Danilo Perovic
 - Diego Kauer
 
+We implemented the API using FastAPI, and trained the model in the file `projekt.ipynb`.
+
 ## Requirements
 
 - geopandas
